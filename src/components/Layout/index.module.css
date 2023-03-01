@@ -1,0 +1,6 @@
+.container {
+    @apply bg-[#f5f5f5] w-full h-full min-h-screen py-4 px-6 flex flex-col 
+}
+.container main{
+    @apply w-full
+}
